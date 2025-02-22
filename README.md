@@ -1,4 +1,4 @@
-# Hi there, I'm rcjb2022 👋
+# Hi there, I'm Charles 👋
 
 ![Profile views](https://gpvc.arturio.dev/rcjb2022)
 [![GitHub followers](https://img.shields.io/github/followers/rcjb2022.svg?style=social&label=Follow)](https://github.com/rcjb2022?tab=followers)
@@ -10,8 +10,6 @@ I'm a novice, no-code software developer with a keen interest in technologies. I
 
 - 🔭 I’m currently working on various open-source projects
 - 🌱 I’m currently learning advanced algorithms and data structures
-- 🤔 I’m looking for help with machine learning projects
-- 💬 Ask me about open-source contributions
 - 📫 How to reach me: rcjb2022@gmail.com
 - ⚡ Fun fact: Former Commercial Pilot ( Cessna Citation 525) and Ground Instructor 
 
@@ -21,10 +19,6 @@ I'm a novice, no-code software developer with a keen interest in technologies. I
 - **Frameworks & Libraries:** React, Node.js, 
 - **Tools & Platforms:** Git, Vercel, Replit, X ai (Grok), Perplexity, and Google Cloud
 
-## 📊 GitHub Stats
-
-![rcjb2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcjb2022&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcjb2022&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
@@ -32,7 +26,4 @@ I'm a novice, no-code software developer with a keen interest in technologies. I
 [![X](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/CharlesBWI)
 
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
