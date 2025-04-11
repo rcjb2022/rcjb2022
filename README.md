@@ -11,7 +11,11 @@ I'm a novice, no-code software developer with a keen interest in technologies. I
 - 🔭 I’m currently working on various open-source projects
 - 🌱 I’m currently learning advanced algorithms and data structures
 - 📫 How to reach me: rcjb2022@gmail.com
-- ⚡ Fun fact: Former Commercial Pilot ( Cessna Citation 525) and Ground Instructor 
+- ⚡ Fun fact: Former Commercial Pilot ( Cessna Citation 525) and Ground Instructor
+- THE University of Miami for Grad School... Go Canes!
+- Duke University DeFi
+- Volunteer Docant at Big Cypress National Preserve 
+
 
 ## 🛠️ My Skills
 
