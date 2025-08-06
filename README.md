@@ -21,7 +21,7 @@ I have a keen interest in technologies; I love to explore new technologies and a
 
 - **Languages:** Haha I remember using True Basic in the 1990s, that is the extent of my coding knowledge
 - **Frameworks & Libraries:** React, Node.js, 
-- **Tools & Platforms:** Git, VS Code, Vercel, Replit, X ai (Grok), Perplexity, Google Cloud, Anthropic, Google AI Studio & Gemini, Bolt.new 
+- **Tools & Platforms:** Git, VS Code, Vercel, Replit, X ai (Grok), Perplexity, Google Cloud, Anthropic (esp. Claude Code) Google AI Studio & Gemini, Bolt.new 
 
 
 ## 📫 Connect with Me
