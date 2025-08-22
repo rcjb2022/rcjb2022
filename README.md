@@ -26,6 +26,8 @@ I have a keen interest in technologies; I love to explore new technologies and a
 
 ## 📫 Connect with Me
 
+https://g.dev/RCJB 
+
 
 [![X](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/CharlesBWI)
 
