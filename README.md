@@ -19,9 +19,9 @@ I have a keen interest in technologies; I love to explore new technologies and a
 
 ## 🛠️ My Skills
 
-- **Languages:** Haha I remember using True Basic in the 1990s, that is the extent of my coding knowledge
-- **Frameworks & Libraries:** React, Node.js, 
-- **Tools & Platforms:** Git, VS Code, Vercel, Replit, X ai (Grok), Perplexity, Google Cloud, Anthropic (esp. Claude Code) Google AI Studio & Gemini, Bolt.new 
+- **Languages:** Python, R, Julia, C++, and Lisp for Machine Learning; but for coding JavaScript, HTML, React... the usual.
+- **Frameworks & Libraries:** TensorFlow, React, Node.js, 
+- **Tools & Platforms:** Hugging Face Git, VS Code, Vercel, Replit, X ai (Grok), Perplexity, Google Cloud, Anthropic (esp. Claude Code) Google AI Studio & Gemini, Bolt.new 
 
 
 ## 📫 Connect with Me
