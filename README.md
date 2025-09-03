@@ -1,10 +1,6 @@
 # Hi there, I'm Charles 👋
 
-![Profile views](https://gpvc.arturio.dev/rcjb2022)
-[![GitHub followers](https://img.shields.io/github/followers/rcjb2022.svg?style=social&label=Follow)](https://github.com/rcjb2022?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/rcjb2022.svg)](https://github.com/rcjb2022)
-
-I have a keen interest in technologies; I love to explore new technologies and applications.
+With a keen interest in technologies; I love to explore new technologies and applications.
 
 ## 🚀 About Me
 
